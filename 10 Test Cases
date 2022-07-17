@@ -1,0 +1,12 @@
+10 Test cases
+
+• ensure a user can login to their account, checking that their account exists
+• ensure a user can create an account for the website
+• ensure that users can send feedback
+• check that all hyperlinks on the website work/send to their correct location
+• ensure that a user can purchase an item, check item for stock before processing purchase
+• check that the user inputs a correct email when purchasing
+• check that the user inputs a correct card type/number when purchasing
+• check for valid email format in contact/purchase forms
+• check for any spelling/grammar issues on the website
+• check that the subtotal/total money is correct to two decimal places
